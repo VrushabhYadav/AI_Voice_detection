@@ -1,5 +1,4 @@
-# lecture_summarizer
-SIH hackathon project prototype# Voice Integrity Verification Backend
+# Voice Integrity Verification Backend
 
 Backend for SIH 26104: AI Powered Real Time Voice Cloning Detection System.
 
